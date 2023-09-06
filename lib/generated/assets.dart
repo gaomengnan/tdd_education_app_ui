@@ -14,6 +14,7 @@ class Assets {
   static const String resResources = 'lib/core/res/resources.dart';
   static const String servicesRouter = 'lib/core/services/router.dart';
   static const String usecasesCacheFirstTimer = 'lib/domain/usecases/cache_first_timer.dart';
+  static const String usecasesUsecases = 'lib/core/usecases/usecases.dart';
   static const String utilsTypedefs = 'lib/core/utils/typedefs.dart';
   static const String viewsPageUnderConstruction = 'lib/core/common/views/page_under_construction.dart';
 
